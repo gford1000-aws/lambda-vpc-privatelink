@@ -18,7 +18,14 @@ The script demonstrates two concepts:
 
 The script creates the following:
 
+### Cloudcraft view:
+
+![alt text](https://github.com/gford1000-aws/lambda-vpc-privatelink/blob/master/lambda-vpc-privatelink.png "Script per Cloudcraft")
+
+### Cloudformation designer view:
+
 ![alt text](https://github.com/gford1000-aws/lambda-vpc-privatelink/blob/master/Lambda%20Access%20to%20VPC%20PrivateLink.png "Script per designer")
+
 
 ## Arguments
 
